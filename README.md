@@ -1,16 +1,19 @@
-## Hi there 👋
+# Timber PM – Medical Courier Website
 
-<!--
-**TimberPM/timberpm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the official website for Timber PM, a reliable medical courier service committed to serving healthcare professionals with speed, safety, and care.
 
-Here are some ideas to get you started:
+🔗 Live Site: [https://timberpm.github.io/timberpm](https://timberpm.github.io/timberpm)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+
+- Clean, professional landing page
+- Responsive layout
+- Quick navigation to core pages
+- Easy to expand with backend in the future
+
+---
+
+Made with ❤️ by Pretty Smart Tech™
+
+
+
